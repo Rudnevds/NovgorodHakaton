@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="positive_verdict">Правильно:</string>
+    <string name="negative_verdict">Неправильно:</string>
+    <string name="neutral_verdict">Нет ответа:</string>
+    <string name="table">Quiz</string>
+    <string name="row_res">results</string>
+    <string name="row_question">questions</string>
+    <string name="tag_error">QuizError</string>
+    <string name="empty_line">Введите логин и пароль</string>
+    <string name="next_step">Далее</string>
+    <string name="answer">Вопрос</string>
+    <string name="answer_1">Вопрос 1</string>
+    <string name="lbl_html">HTML</string>
+    <string name="lbl_difficulty">Сложность:</string>
+    <string name="lbl_count_question">Количество вопросов:</string>
+    <string name="btn_start_quiz">Начать квиз</string>
+    <string name="lbl_var1">Вариант 1</string>
+    <string name="lbl_var2">Вариант 2</string>
+    <string name="lbl_var3">Вариант 3</string>
+    <string name="btn_main_menu">На главную</string>
+    <string name="lbl_result">Ваш результат:</string>
+    <string name="lbl_email">Введите Email</string>
+    <string name="lbl_password">Введите пароль</string>
+    <string name="btn_auth">Войти</string>
+    <string name="btn_transition_reg">Ещё не регистрировались? Зарегистрироваться</string>
+    <string name="lbl_title">Добро пожаловать в Квиз</string>
+    <string name="btn_reg">Зарегистрироваться</string>
+    <string name="btn_transition_auth">Уже зарегистрированы? Войти</string>
+    <string name="text_start_procent">0%</string>
+    <string name="lbl_count_question_value">10</string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437472751478",
+    "project_id": "hakatonnovgorod-a6545",
+    "storage_bucket": "hakatonnovgorod-a6545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437472751478:android:0a797f7bff894105c51457",
+        "android_client_info": {
+          "package_name": "com.example.novgorodhakaton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sNmGXAtRAkFw-WwoiM9nvYWY6S8fabE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
